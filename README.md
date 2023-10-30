@@ -1,1 +1,1 @@
-# -YandexMusic_hackathon
+# YandexMusic_hackathon
