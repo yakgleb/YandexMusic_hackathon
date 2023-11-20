@@ -8,5 +8,7 @@
 
 Участники хакатона:
 [Глеб](https://github.com/yakgleb)
+
 [Айгерим](https://github.com/4Sin)
+
 [Александр](https://github.com/4Sin)
