@@ -15,6 +15,6 @@
 
 [Глеб](https://github.com/yakgleb)
 
-[Айгерим](https://github.com/4Sin)
+[Айгерим](https://github.com/moonkerimka)
 
 [Александр](https://github.com/4Sin)
